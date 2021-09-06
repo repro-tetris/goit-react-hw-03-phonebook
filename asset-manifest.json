@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/repro-tetris/goit-react-hw-03-phonebook/static/css/main.f6d413da.chunk.css",
-    "main.js": "/repro-tetris/goit-react-hw-03-phonebook/static/js/main.aa3ac295.chunk.js",
-    "main.js.map": "/repro-tetris/goit-react-hw-03-phonebook/static/js/main.aa3ac295.chunk.js.map",
-    "runtime-main.js": "/repro-tetris/goit-react-hw-03-phonebook/static/js/runtime-main.273d7659.js",
-    "runtime-main.js.map": "/repro-tetris/goit-react-hw-03-phonebook/static/js/runtime-main.273d7659.js.map",
-    "static/js/2.fb14fbee.chunk.js": "/repro-tetris/goit-react-hw-03-phonebook/static/js/2.fb14fbee.chunk.js",
-    "static/js/2.fb14fbee.chunk.js.map": "/repro-tetris/goit-react-hw-03-phonebook/static/js/2.fb14fbee.chunk.js.map",
-    "index.html": "/repro-tetris/goit-react-hw-03-phonebook/index.html",
-    "static/css/main.f6d413da.chunk.css.map": "/repro-tetris/goit-react-hw-03-phonebook/static/css/main.f6d413da.chunk.css.map",
-    "static/js/2.fb14fbee.chunk.js.LICENSE.txt": "/repro-tetris/goit-react-hw-03-phonebook/static/js/2.fb14fbee.chunk.js.LICENSE.txt"
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.f6d413da.chunk.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.ed11444c.chunk.js",
+    "main.js.map": "/goit-react-hw-03-phonebook/static/js/main.ed11444c.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-phonebook/static/js/runtime-main.145bc49a.js",
+    "runtime-main.js.map": "/goit-react-hw-03-phonebook/static/js/runtime-main.145bc49a.js.map",
+    "static/js/2.fb14fbee.chunk.js": "/goit-react-hw-03-phonebook/static/js/2.fb14fbee.chunk.js",
+    "static/js/2.fb14fbee.chunk.js.map": "/goit-react-hw-03-phonebook/static/js/2.fb14fbee.chunk.js.map",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "static/css/main.f6d413da.chunk.css.map": "/goit-react-hw-03-phonebook/static/css/main.f6d413da.chunk.css.map",
+    "static/js/2.fb14fbee.chunk.js.LICENSE.txt": "/goit-react-hw-03-phonebook/static/js/2.fb14fbee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.273d7659.js",
+    "static/js/runtime-main.145bc49a.js",
     "static/js/2.fb14fbee.chunk.js",
     "static/css/main.f6d413da.chunk.css",
-    "static/js/main.aa3ac295.chunk.js"
+    "static/js/main.ed11444c.chunk.js"
   ]
 }
