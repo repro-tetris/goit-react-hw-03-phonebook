@@ -16,7 +16,7 @@ class App extends React.Component {
     this.setState({ contacts });
   }
 
-  componentDidUpdate(prevProps, prevState) {
+  componentDidUpdate(_prevProps, prevState) {
     if (prevState.contacts !== this.state.contacts) {
       saveContacts(this.state.contacts);
     }
