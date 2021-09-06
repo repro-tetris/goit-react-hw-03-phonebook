@@ -1,9 +1,7 @@
-const STORAGE_CONTACTS = {
-  NAME: "contacts",
-};
+const STORAGE_NAME = "contacts";
 
 export const loadContacts = () => {
-  const contacts = localStorage.getItem(STORAGE_CONTACTS.NAME);
+  const contacts = localStorage.getItem(STORAGE_NAME);
   if (contacts) {
     return JSON.parse(contacts);
   }
@@ -12,5 +10,5 @@ export const loadContacts = () => {
 };
 
 export const saveContacts = (contacts) => {
-  localStorage.setItem(STORAGE_CONTACTS.NAME, JSON.stringify(contacts));
+  localStorage.setItem(STORAGE_NAME, JSON.stringify(contacts));
 };
