@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/repro-tetris/goit-react-hw-03-phonebook/static/css/main.f6d413da.chunk.css",
-    "main.js": "/repro-tetris/goit-react-hw-03-phonebook/static/js/main.9795b43b.chunk.js",
-    "main.js.map": "/repro-tetris/goit-react-hw-03-phonebook/static/js/main.9795b43b.chunk.js.map",
+    "main.js": "/repro-tetris/goit-react-hw-03-phonebook/static/js/main.aa3ac295.chunk.js",
+    "main.js.map": "/repro-tetris/goit-react-hw-03-phonebook/static/js/main.aa3ac295.chunk.js.map",
     "runtime-main.js": "/repro-tetris/goit-react-hw-03-phonebook/static/js/runtime-main.273d7659.js",
     "runtime-main.js.map": "/repro-tetris/goit-react-hw-03-phonebook/static/js/runtime-main.273d7659.js.map",
     "static/js/2.fb14fbee.chunk.js": "/repro-tetris/goit-react-hw-03-phonebook/static/js/2.fb14fbee.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.273d7659.js",
     "static/js/2.fb14fbee.chunk.js",
     "static/css/main.f6d413da.chunk.css",
-    "static/js/main.9795b43b.chunk.js"
+    "static/js/main.aa3ac295.chunk.js"
   ]
 }
